@@ -1,0 +1,8 @@
+{
+  "name": "OpenSea Creatures TF",
+  "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+  "image": "https://techforceglobal.com/wp-content/uploads/2022/02/Tech-logo200x40.svg",
+  "external_link": "https://techforceglobal.com/",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x6f8090B4372A6a854bD3E820C67740cB7f94046E"
+}
